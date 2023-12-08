@@ -1,0 +1,74 @@
+﻿  HW2.cpp
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(12,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(13,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(13,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(13,13): error C2065: cx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(14,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bx"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(14,13): error C2065: bx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(15,9): error C2065: cmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(15,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bx"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(15,13): error C2065: bx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(15,17): error C2065: cx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(16,9): error C2065: jg: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(16,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "more"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(16,12): error C2065: more: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(17,9): error C2065: jle: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(17,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "less_or_equal"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(17,13): error C2065: less_or_equal: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(18,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end_y1"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(18,13): error C2065: end_y1: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(20,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(20,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(20,13): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(20,17): error C2065: bx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(21,9): error C2065: sub: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(21,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(21,13): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(21,17): error C2065: cx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(22,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end_y1"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(22,13): error C2065: end_y1: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(24,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(24,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(24,13): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(25,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end_y1"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(25,13): error C2065: end_y1: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(27,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(27,21): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(28,9): error C2065: cmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cx"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(28,13): error C2065: cx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(28,17): error C2065: bx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(29,9): error C2065: jg: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(29,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "more_two"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(29,12): error C2065: more_two: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(30,9): error C2065: jle: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "less_or_equal_two"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(30,13): error C2065: less_or_equal_two: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(31,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end_y2"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(31,13): error C2065: end_y2: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(33,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(33,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(33,13): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(34,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(34,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end_y2"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(34,13): error C2065: end_y2: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(36,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(36,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(36,13): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(37,9): error C2065: mul: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(37,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bx"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(37,13): error C2065: bx: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(38,9): error C2065: jmp: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(38,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "end_y2"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(38,13): error C2065: end_y2: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(40,9): error C2065: mul: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(40,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(41,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(41,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\shevelev.rv\Desktop\FEFU\1-2 курсы\Assemler\3\HW2.cpp(41,21): error C2065: ax: необъявленный идентификатор
