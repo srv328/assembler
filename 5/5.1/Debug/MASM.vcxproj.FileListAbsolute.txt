@@ -1,0 +1,5 @@
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\l\MASM\Debug\MASM.exe
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\Лаба7\Debug\MASM.exe
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\лаба8\Debug\MASM.exe
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\8\Debug\MASM.exe
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\8.1.1\Debug\MASM.exe
