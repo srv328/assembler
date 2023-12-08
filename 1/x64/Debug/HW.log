@@ -1,0 +1,26 @@
+﻿  HW.cpp
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(6,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(7,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(7,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(7,13): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(8,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(8,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(8,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(8,13): error C2065: bl: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(9,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mul"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(9,9): error C2065: mul: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(9,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bl"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(9,13): error C2065: bl: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(10,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(10,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(10,13): error C2065: al: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(11,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mul"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(11,9): error C2065: mul: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(11,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(11,13): error C2065: al: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(12,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(12,9): error C2065: mov: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(12,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(12,16): error C2065: ax: необъявленный идентификатор
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW\HW.cpp(13,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
