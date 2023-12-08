@@ -1,0 +1,2 @@
+﻿  HW2.cpp
+C:\Users\shevelev.rv\Desktop\FEFU\Assemler\HW2\HW2.cpp(13,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
