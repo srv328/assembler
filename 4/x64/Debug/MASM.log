@@ -1,0 +1,7 @@
+﻿  Assembling Main.asm...
+Main.asm(1): error A2008: syntax error : .
+Main.asm(3): error A2008: syntax error : .
+Main.asm(20): error A2008: syntax error : main
+Main.asm(20): error A2088: END directive required at end of file
+Main.asm(11): error A2006: undefined symbol : @data
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Main.obj" /W3 /errorReport:prompt  /TaMain.asm" с кодом "1".
