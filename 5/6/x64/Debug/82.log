@@ -1,0 +1,13 @@
+﻿  Assembling readD.asm...
+readD.asm(1): error A2008: syntax error : .
+readD.asm(2): error A2008: syntax error : .
+readD.asm(20): error A2008: syntax error : ,
+readD.asm(29): error A2008: syntax error : ,
+readD.asm(36): error A2008: syntax error : ,
+readD.asm(44): error A2008: syntax error : ,
+readD.asm(53): error A2008: syntax error : driveName
+readD.asm(55): error A2008: syntax error : invoke
+readD.asm(58): error A2008: syntax error : invoke
+readD.asm(60): error A2008: syntax error : invoke
+readD.asm(63): fatal error A1010: unmatched block nesting : ReadDrive
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\readD.obj" /W3 /errorReport:prompt  /TareadD.asm" с кодом "1".
